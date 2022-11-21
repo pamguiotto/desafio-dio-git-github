@@ -1,2 +1,6 @@
-# desafio-dio-git-github
-Primeiro desafio de projeto da DIO sobre Git e GitHub
+# Desafio de projeto Git/Github
+Repositório do primeiro desafio de projeto pela DIO sobre Git e GitHub / Bootcamp OrangTech+  
+
+
+## Links Úteis
+[Síntaxse básica markdown](https://www.markdownguide.org/basic-syntax/)
